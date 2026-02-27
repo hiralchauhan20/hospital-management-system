@@ -45,7 +45,7 @@ header {
   left: 0;
   width: 98%;
   z-index: 1000; /* ensures navbar stays above other elements */
-  background: white; /* or your preferred background */
+  background: rgb(247, 245, 245); /* or your preferred background */
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* optional shadow */
   padding: 0 20px;
 }
